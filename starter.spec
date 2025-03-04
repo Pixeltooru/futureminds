@@ -45,7 +45,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='starter',
+    name='starter-FutureMinds',
     debug=False,
     bootloader_ignore_signals=True,  
     strip=False,
@@ -58,6 +58,7 @@ exe = EXE(
     codesign_identity=None,
     entitlements_file=None,
     icon='./start.ico',
+    version='version.txt'
 )
 
 exe.manifest = "pixelToo Lab"
