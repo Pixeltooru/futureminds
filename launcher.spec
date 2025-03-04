@@ -56,6 +56,7 @@ exe = EXE(
     codesign_identity=None,
     entitlements_file=None,
     icon='./FutureMinds.ico',
+    version='version.txt'
 )
 
 exe.manifest = "pixelToo Lab"
