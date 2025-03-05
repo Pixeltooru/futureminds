@@ -16,10 +16,6 @@ VSVersionInfo(
           '040904B0',
           [
             StringStruct('CompanyName', 'pixelToo Lab'),  # Издатель
-            StringStruct('FileVersion', '1.0.0.0'),
-            StringStruct('InternalName', 'starter'),
-            StringStruct('LegalCopyright', ''),
-            StringStruct('ProductVersion', '1.0.0.0')
           ]
         )
       ]
